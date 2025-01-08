@@ -1,5 +1,4 @@
 # AI-JIRA-Commenting
-# From Users to Builders: Transform Yourself for the Age of AI
 
 ## Description
 This project is designed to help users transition to builders in the age of AI. It includes tools to integrate with Jira, automate task management, and more.
