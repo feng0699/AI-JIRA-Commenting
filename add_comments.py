@@ -2,9 +2,9 @@ from jira import JIRA
 import os
 
 # JIRA server details
-jira_server = 'https://feng0699.atlassian.net/'  # Replace with your JIRA URL
-jira_user = 'feng0699@gmail.com'  # Replace with your JIRA username/email
-jira_api_token = 'ATATT3xFfGF0EXdjQ97kNrAfwCeJ61yxcJdQls_oWKLld6vX_juhKgA4lPQaGIwuijwN5XolYLVd2h5xy7Rs0goCO61732GNXSEm0cQyxQR67BuSqT7vJGbP92XHsEMifU6RVLZyp9cyPJFH3ixaZn7hohiu6WefgriicfGGaU9G-s_nrGAzJ-w=6538E63B'  # Replace with your JIRA API token
+jira_server = 'https://youremail.atlassian.net/'  # Replace with your JIRA URL
+jira_user = 'youremail@gmail.com'  # Replace with your JIRA username/email
+jira_api_token = 'yourapitoken'  # Replace with your JIRA API token
 
 # Initialize JIRA client
 try:
